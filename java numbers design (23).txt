@@ -1,0 +1,30 @@
+
+public class popo 
+{  
+public static void main(String[] args)  
+{  
+int i, j;  
+
+for (i = 10; i >= 1; i--)  
+{  
+for (j = 9; j >= i; j--)  
+{  
+System.out.print(j+" ");  
+}  
+   
+System.out.println();  
+}  
+}  
+}
+/*
+9
+9 8
+9 8 7
+9 8 7 6
+9 8 7 6 5
+9 8 7 6 5 4
+9 8 7 6 5 4 3
+9 8 7 6 5 4 3 2
+9 8 7 6 5 4 3 2 1
+
+*/
