@@ -33,5 +33,6 @@ class PatternA {
         Scanner sc = new Scanner(System.in); 
         PatternA a = new PatternA(); 
         a.display(7); 
+        // Creater By Sanusanth
     } 
 } 
