@@ -9,6 +9,7 @@ for(j=i; j < rows+1 ;j++)
 {  
 System.out.print(j + " ");  
 }  
+// Creater By Sanusanth
 for(k=1; k < i ;k++)  
 {  
 System.out.print(k + " ");  
