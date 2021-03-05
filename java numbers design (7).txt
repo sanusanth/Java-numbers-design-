@@ -9,7 +9,8 @@ for (i = rows; i >= 1; i--)
 for (j = 1; j <= i; j++)  
 {  
 System.out.print(j+" ");  
-}  
+}
+//Creater By Sanusanth
 System.out.println();  
 }  
 //Prints lower half  pattern  
