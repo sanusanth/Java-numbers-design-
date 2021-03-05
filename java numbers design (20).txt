@@ -16,6 +16,7 @@ for (int j = i; j <= rows; j++)
 {   
 System.out.print(j);   
 }   
+//Creater By Sanusanth
 System.out.println();   
 }   
 //Prints lower half  pattern   
