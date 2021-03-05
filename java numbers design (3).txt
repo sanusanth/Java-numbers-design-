@@ -23,6 +23,7 @@ for (int j = 1; j <= rows; j++)
 System.out.print(num);  
 num = (num == 0)? 1 : 0;  
 }  
+//Creater By Sanusanth
 }  
 System.out.println();  
 }  
